@@ -1,6 +1,6 @@
-package tpe_programacion_3;
+package tpe_prog_3;
 
-import tpe_programacion_3.utils.CSVReader;
+import tpe_prog_3.utils.CSVReader;
 
 import java.util.*;
 

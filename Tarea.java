@@ -1,4 +1,4 @@
-package tpe_programacion_3;
+package tpe_prog_3;
 
 public class Tarea {
     private String id;
